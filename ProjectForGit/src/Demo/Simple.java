@@ -15,5 +15,10 @@ public class Simple {
 		
 	
 	}
+	
+	public void test()
+	{
+		System.out.println("advait");
+	}
 
 }
