@@ -11,6 +11,8 @@ public class Simple {
 		boolean var1 = a.isEmpty();   ///spaces counted as string char
 		System.out.println(var1);
 		System.out.println("hii");
+		System.out.println("sarika");
+		
 	
 	}
 
